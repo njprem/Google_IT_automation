@@ -1,6 +1,4 @@
-
-.pyc
-
-.DS
-
-/__pycache__
+*.pyc
+*.DS_Store
+__pycache__/
+.pytest_cache/
