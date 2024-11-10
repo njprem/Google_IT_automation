@@ -1,8 +1,36 @@
-
-*.DS
+# Python byte-compiled files
 *.pyc
+*.pyo
+*.pyd
+__pycache__/
 
-/__pycache__
+# Unit test / pytest cache
+.pytest_cache/
+.tox/
+.test/
 
+# Coverage reports
+coverage/
+htmlcov/
+.coverage
+.coverage.*
 
-/.pytest_cache
+# Virtual environments
+venv/
+.env/
+
+# Distribution / Packaging files
+dist/
+build/
+*.egg-info/
+
+# macOS system files
+.DS_Store
+
+# Logs and other unnecessary output files
+*.log
+*.out
+
+# IDE-specific directories
+.idea/
+.vscode/
