@@ -1,0 +1,1 @@
+name=$(basename "$file" .HTM)

@@ -1,0 +1,3 @@
+/Users/nj.prem/OneDrive - King Mongkut’s University of Technology Thonburi (KMUTT)/google it automation python/python_interact_with_OS/Python_Bash/bash_project/jane_contact_07292018.csv
+/Users/nj.prem/OneDrive - King Mongkut’s University of Technology Thonburi (KMUTT)/google it automation python/python_interact_with_OS/Python_Bash/bash_project/jane_pic_07282018.jpg
+/Users/nj.prem/OneDrive - King Mongkut’s University of Technology Thonburi (KMUTT)/google it automation python/python_interact_with_OS/Python_Bash/bash_project/jane_profile_07272018.doc
